@@ -1,0 +1,143 @@
+/***************TAG STYLE*********************/
+body {
+  background-color: white;
+  font-family: "Lato";
+  overflow: hidden;
+
+
+}
+
+/*hr {
+  border-color: grey;
+  border-style: solid none none none;
+  border-width: 1px;
+  margin-top: 130px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 97%;
+  position: fixed;
+}*/
+
+
+
+
+/****************CLASS SELECTORS*****************/
+/*.panel_cifras{
+  background-color: #BFDCEE;
+
+}*/
+
+.credits{
+  position: fixed;
+  margin-top: 680px;
+}
+
+/*.frame-white{
+  background-color: white;
+  position: fixed;
+  width: 62rem;
+  height: 500px;
+  margin-top: 150px;
+
+}
+.frame-blue{
+  background-color: #BFDCEE;
+  position: fixed;
+  left: 62.5rem;
+  width: 34.375rem;
+  height: 31.25rem;
+  margin-top: 150px;
+}
+*/
+/* Navigation Bar */
+.nav-right{
+  display: inline-block;
+  margin: 0
+}
+.navbar{
+  padding-bottom: 0rem;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+.area-dropdown{
+  font-size: 1.5rem;
+  font-weight: bolder;
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+  margin-left: 0;
+  padding: 0
+}
+.area-dropdown:hover{
+  background-color: #BFDCEE;
+}
+
+.logoacnur{
+  width: 50%;
+  padding: 0
+}
+.row{
+  margin: 0;
+  padding: 0;
+}
+
+/***************LOGO SELECTORS***********/
+#date{
+  /* display: inline-block; */
+
+  text-align: right;
+}
+#text{
+  margin-top: 0;
+  padding-bottom: 400px;
+}
+#pais{
+  font-family: "Lato-light", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.8;
+  color: #000;
+  text-align: right;
+      /* display: inline-block; */
+  /* position: fixed; */
+
+}
+
+/* #area{
+  display: inline-block;
+  position: absolute;
+  top: 40px;
+  right: 30px;
+} */
+#separador-top{
+  border-color: grey;
+  border-style: solid none none none;
+  border-width: 1px;
+  margin: 0;
+  padding: 0;
+  width: 97%;
+  position: absolute;
+
+
+}
+#separador-bottom{
+  border-color: grey;
+  border-style: solid none none none;
+  border-width: 1px;
+  margin: 700px auto 10px auto;
+  width: 97%;
+  position: fixed;
+}
+#lienzo{
+  background-color: white;
+}
+#encabezado{
+  position: fixed;
+  background-color: #fff;
+  z-index: 0;
+}
+#Reasentamiento{
+  padding-top: 140px;
+}
